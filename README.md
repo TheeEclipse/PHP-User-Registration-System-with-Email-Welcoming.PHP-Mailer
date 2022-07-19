@@ -13,7 +13,7 @@ Send Emails to welcome users immediately they sign up to your site. We are using
 
 📡 Always replace the " in html with ' for the email body if it is in html unless otherwise.
 
-📡
+📡My email body is deleted (some sections) , it is my organizations private template.
 
 ![download](https://user-images.githubusercontent.com/97826144/179850943-24faba02-c690-4c8b-b7a5-0662d22d964b.png)
 
